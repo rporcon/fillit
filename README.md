@@ -1,2 +1,2 @@
 # fillit
-See **fillit.en.pdf** file for explanations of the project
+See **fillit.en.pdf** file for explanation of the project
